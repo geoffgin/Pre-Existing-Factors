@@ -1,4 +1,4 @@
-## Pre-Exisitng Conditions & Mortality Analysis
+## Pre-Existing Conditions & Mortality Analysis
 
 This project analyzes the correlation between pre-existing conditions (such as heart disease, asthma, kidney disease, etc.) and COVID-19 mortality rates across different states and age groups in the United States. The analysis uses CDC and COVID datasets along with mortality data to create both supervised and unsupervised learning models.
 

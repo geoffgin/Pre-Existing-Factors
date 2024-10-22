@@ -65,3 +65,7 @@ The notebooks include visualizations of heatmaps, pairplots, PCA scatterplots, a
 ### Author's
 
 Natalie LaRowe (nlarowe@umich.edu), Geoffrey Gin (ggin@umich.edu), Denesh Chandrahasan (denesh@umich.edu), 2024
+
+-------------------------------------
+
+_This project is a continuation of Geoffrey's Milestone I project (https://github.com/geoffgin/Heart-Disease-Morality)_

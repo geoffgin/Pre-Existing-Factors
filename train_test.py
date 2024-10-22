@@ -1,6 +1,7 @@
 # %%
 from preprocessing import get_sup_df
 from sklearn.model_selection import train_test_split
+import pandas as pd
 
 # %%
 def prepare_X_y():
@@ -15,7 +16,7 @@ def prepare_X_y():
 
     X = df[['Age Group', 'Heart Disease', 'Asthma', 'Kidney Disease', 'Diabetes', 'Obesity', 'Population']]
 
-    y = df['Rate of COVID Deaths Due to Conditions']
+    y = pd.Series(df['Rate of COVID Deaths Due to Conditions'].values)
 
     return X, y
 
